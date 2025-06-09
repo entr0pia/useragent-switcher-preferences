@@ -1,0 +1,22 @@
+{
+  "blacklist": [],
+  "custom": {
+    "aistudio.google.com, gemini.google.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36"
+  },
+  "last-update": 1749466275866,
+  "mode": "custom",
+  "parser": {},
+  "protected": [
+    "google.com/recaptcha",
+    "gstatic.com/recaptcha",
+    "accounts.google.com",
+    "accounts.youtube.com",
+    "gitlab.com/users/sign_in",
+    "challenges.cloudflare.com"
+  ],
+  "remote-address": "",
+  "userAgentData": true,
+  "whitelist": [],
+  "json-guid": "a5f92028-0f43-400b-be6f-c08da662ee68",
+  "json-forced": false
+}
