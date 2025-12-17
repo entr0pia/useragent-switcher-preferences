@@ -1,11 +1,27 @@
 {
   "blacklist": [],
   "custom": {
-    "aistudio.google.com, gemini.google.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36"
+    "aistudio.google.com, gemini.google.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Safari/537.36"
   },
-  "last-update": 1749466275866,
+  "last-update": 1759972645854,
   "mode": "custom",
   "parser": {},
+  "popular-browsers": [
+    "Internet Explorer",
+    "Safari",
+    "Chrome",
+    "Firefox",
+    "Opera",
+    "Edge",
+    "Vivaldi"
+  ],
+  "popular-oss": [
+    "Windows",
+    "Mac OS",
+    "Linux",
+    "Chromium OS",
+    "Android"
+  ],
   "protected": [
     "google.com/recaptcha",
     "gstatic.com/recaptcha",
@@ -15,8 +31,9 @@
     "challenges.cloudflare.com"
   ],
   "remote-address": "",
+  "user-styling": "",
   "userAgentData": true,
   "whitelist": [],
-  "json-guid": "a5f92028-0f43-400b-be6f-c08da662ee68",
+  "json-guid": "7b2bac83-b68b-46d3-9b08-eb548469488a",
   "json-forced": false
 }
